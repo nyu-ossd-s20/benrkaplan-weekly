@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+All you need to know is that I'm a big believer in smiley faces being written as ":-)" rather than ":)"
 
-info blah. 
+I can provide other examples if necessary but the nose is essential
+
+
 
 ### More Information
 
